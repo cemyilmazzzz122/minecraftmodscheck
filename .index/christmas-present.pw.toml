@@ -1,0 +1,16 @@
+filename = 'christmas_presents-1.0.0-forge-1.20.1.jar'
+name = 'Christmas present'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5a05e42152e72acb6948684d92825dd1d446949225c65b13a19a02898eefc8bd9b537e485421c45fa5db9ee86c616e353588fff447ccaeb0f7479d2e7ae8ec4b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tB6I38jD/versions/VgSidOEG/christmas_presents-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'tB6I38jD'
+version = 'VgSidOEG'
