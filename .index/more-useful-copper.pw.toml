@@ -1,0 +1,16 @@
+filename = 'more_useful_copper-merged-1.20.1-2.0.0.jar'
+name = 'More Useful Copper'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '31cab5b54966a96c0af74e81d1f6a57ab9f3e63d4d7d4246b753179548d545ce05a96f5b4384dbf633e6a395ffca50c1c6fd76d7a417085cf64247b8d17cd432'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nKAkZnor/versions/k6aQISr6/more_useful_copper-merged-1.20.1-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'nKAkZnor'
+version = 'k6aQISr6'

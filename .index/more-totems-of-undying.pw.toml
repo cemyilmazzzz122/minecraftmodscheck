@@ -1,0 +1,16 @@
+filename = 'More Totems of Undying-forge-1.20.1-2.16.0.jar'
+name = 'More Totems of Undying'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3f1b24ce08f9520607acddd2f0ddfc931fb80bd1234839da070e95bfbc1b20a1c46b38363a089c8d06a13764827a1acc01a7511b76e9a4389bad27dc6ae05a60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Xt0pMhSq/versions/A68awhoI/More Totems of Undying-forge-1.20.1-2.16.0.jar'
+
+[update.modrinth]
+mod-id = 'Xt0pMhSq'
+version = 'A68awhoI'
