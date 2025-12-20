@@ -1,16 +1,16 @@
-filename = 'doubleslabs-forge-1.20.1-0.1.2.jar'
-name = 'Double Slabs'
+filename = 'DoubleSlabs-forge-1.20.1-1.0.3.jar'
+name = 'Double Slabs Reborn'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'edf5924f56eb7b6377629b1b9931d8e2017706be'
+hash = '6601c3ec1167af303e984b215b2e926ed04a4229'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6852837
-project-id = 350179
+file-id = 6770339
+project-id = 1288441
