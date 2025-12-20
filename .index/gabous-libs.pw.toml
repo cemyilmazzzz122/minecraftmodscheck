@@ -1,0 +1,16 @@
+filename = 'untitled1-forge-1.6.jar'
+name = "Gabou's Libs"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '00203f226ee1a9ec8c26cd244b7d8153f628b77e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7261537
+project-id = 1367332

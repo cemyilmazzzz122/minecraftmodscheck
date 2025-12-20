@@ -1,0 +1,16 @@
+filename = 'identity-2.9.2-1.20.1-forge.jar'
+name = 'Identity Fix (Morph)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f536628c1fc55b6e01e84116771940496c354bb4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7200516
+project-id = 1238155
