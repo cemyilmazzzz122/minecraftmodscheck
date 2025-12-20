@@ -1,0 +1,16 @@
+filename = 'more_useful_copper-merged-1.20.1-2.0.0.jar'
+name = 'More Useful Copper'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '58d95422a4941bf493ee8ce584a3665f7242f00e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6020408
+project-id = 983503
