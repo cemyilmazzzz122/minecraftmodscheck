@@ -1,0 +1,16 @@
+filename = 'extrahoppers-1.0-SNAPSHOT.jar'
+name = 'Extra Hoppers'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2097f9dd132af8a964b1ddf8ea945a297cf4bc52'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6834162
+project-id = 1318280
