@@ -1,0 +1,16 @@
+filename = 'BlackwolfLibrary-1.20.1-1.0.2-[FORGE].jar'
+name = 'Blackwolf Library'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38eb38714be36162ed39d9478cbf11ede1f7b00d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4592999
+project-id = 855057
