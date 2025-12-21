@@ -1,16 +1,16 @@
-filename = 'createenchantablemachinery-3.4.3+mc1.20.1-forge.jar'
-name = 'Create: Enchantable Machinery'
+filename = 'createautomateeverything-1.0-1.20.1.jar'
+name = 'Create: Automate Everything'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'e3fcddcd2d355e6ef17bad525b79a2392242d341'
+hash = '6f0080c8fbb171b1f93bc7b5e65cd71567f4a6c6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7172776
-project-id = 1061749
+file-id = 5561199
+project-id = 1070326

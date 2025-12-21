@@ -1,0 +1,16 @@
+filename = 'create__automation-forge-1.20.1-0.1.2a.jar'
+name = 'Create: Automation'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '219cd2d4a11eb1fde7d9f01cde67cd392534749d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7072692
+project-id = 1048662
