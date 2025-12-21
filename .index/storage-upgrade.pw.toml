@@ -1,0 +1,16 @@
+filename = 'Storage_upgrade_0.0.2_alpha_1.20.1.jar'
+name = 'Storage Upgrade'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '9525880b32a5e7fcf1073ead2e5895ce0edced2bf1140f3ded11acb1ef65bfe90dd6dde4e7393aaedcff88ba1daf60faccb81eafda442114bae3baf756b0c1d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/S2nWzjsk/versions/JhEZ1LpJ/Storage_upgrade_0.0.2_alpha_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'S2nWzjsk'
+version = 'JhEZ1LpJ'

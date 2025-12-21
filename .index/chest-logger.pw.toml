@@ -1,0 +1,16 @@
+filename = 'ChestLogger-FORGE-1.20.1-v1.17.2.jar'
+name = 'Chest Logger'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.2-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11f89384d71867abbc23795ad0a93efa8162778f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5291789
+project-id = 1009161
