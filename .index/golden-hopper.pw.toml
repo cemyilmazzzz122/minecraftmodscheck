@@ -1,0 +1,16 @@
+filename = 'goldenhopper-forge-1.20.1-1.4.1.jar'
+name = 'Golden Hopper'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f38bc43619f12ac963ee02b6de88cd3cdd49e4b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4603250
+project-id = 374736
