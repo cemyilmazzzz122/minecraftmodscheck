@@ -1,0 +1,16 @@
+filename = 'mekanism_enchantable_machines-1.0-all.jar'
+name = 'Mekanism Enchantable Machines'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c67d0a7c4b858a0ed7ba8f1d750fc7008f05839cab36c1c115287d44fcc087d91161bbb1f3b112bb140dece2e8cd28f1aa58c1dd9ca5e353012392af6a140f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XEUBlOhb/versions/zIje7S11/mekanism_enchantable_machines-1.0-all.jar'
+
+[update.modrinth]
+mod-id = 'XEUBlOhb'
+version = 'zIje7S11'

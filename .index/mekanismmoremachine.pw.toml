@@ -1,0 +1,16 @@
+filename = 'mekmm-1.20.1-1.1.0.jar'
+name = 'Mekanism:More Machine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '166ee492eaefc8ddb8d696abaabd64416ce4128b6b4f32157124eef81b2ccba4c96ba05db82f8200e06a078b25125e4865cf4e0dd7076275e9cb39fcb99743bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qDJXZJTz/versions/WPSq9CvP/mekmm-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'qDJXZJTz'
+version = 'WPSq9CvP'
