@@ -1,0 +1,16 @@
+filename = 'chemicalscience-1.20.1-3.0.2.jar'
+name = 'Chemical Science'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7f1087e5ce089ef632cb644cc58e30f9f2798cc5c58d4de107216ac0e92ced957385428d7950ecec7226e36a500eea5ec4f191d6786de51b47a55ebec9aa01c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ToQbVMfg/versions/oxma45ik/chemicalscience-1.20.1-3.0.2.jar'
+
+[update.modrinth]
+mod-id = 'ToQbVMfg'
+version = 'oxma45ik'
