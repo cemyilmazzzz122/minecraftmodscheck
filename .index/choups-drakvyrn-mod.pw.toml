@@ -1,0 +1,16 @@
+filename = 'Choups_Drakvyrn_Mod_(v2.5.0)_for_1.20.1.jar'
+name = "Choup's Drakvyrn Mod"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '84164781937dc8c5b6d145436114e3588334c0a991c4612320bf0847a731a70d110fc584dc70390f4c0b98003f7af041caae4de6dd9c611a8263769273956e91'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hi5FQaJy/versions/KmvUV8Hf/Choups_Drakvyrn_Mod_%28v2.5.0%29_for_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'hi5FQaJy'
+version = 'KmvUV8Hf'
