@@ -1,0 +1,17 @@
+filename = 'paleocraft_revival-0.0.7-forge-1.20.1.jar'
+name = 'PaleoCraft Revival'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.0.7'
+
+[download]
+hash = '24487e734413d5122e8cb63d0a1bff498cb6c6788a8773191e0d824bbf13a91f1c804e6d249fd4309816e1f704faf494e8d17819d2e4e941fc4233c8059396dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pO4vE9SX/versions/NmmoYCd4/paleocraft_revival-0.0.7-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'pO4vE9SX'
+version = 'NmmoYCd4'
